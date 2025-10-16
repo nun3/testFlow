@@ -1,4 +1,4 @@
-# TestFlow - Browser Chat Agent
+# TestFlow - Browser Chat Agent.
 
 Um agente de navegação web automatizada que funciona como um chat interativo, permitindo que você dê comandos em linguagem natural para navegar na web.
 
